@@ -1,1 +1,1 @@
-# MNISTClassification
+# MNIST Image Classification
